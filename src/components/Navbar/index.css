@@ -1,0 +1,30 @@
+* {
+  color: antiquewhite;
+}
+
+.title-score-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.website-logo {
+  width: 150px;
+  margin: 10px;
+}
+
+.scores-container {
+  display: flex;
+}
+
+.score {
+  margin-right: 25px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.timer {
+  width: 40px;
+  height: 40px;
+  margin-top: 15px;
+}

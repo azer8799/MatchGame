@@ -1,0 +1,14 @@
+.logo {
+  width: 120px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.desc {
+  text-align: center;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+}
